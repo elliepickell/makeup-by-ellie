@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+    margin: 25;
+    padding: 0;
+    overflow: hidden;
+    color: #333333
+    text-align: center;
+    font-family: "dotum";
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    width: 60px;
+    background-color: #ffffff;
+}
+
+a:link           	{color:#1F274C;}
+a:visited     	{color:#48214C;}
+a:active       	{color:#2A262B;}
+
+
+body {
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #333333;
+    text-align: center;
+font-family: "dotum";
+font-size: 45px;
+}
+ ul {
+      color: #333333
+      text-align: center;
+      font-family: "dotum";
+ }
+
+p {
+    color: #2A262B;
+    font-family: "dotum";
+    font-size: 20px;
+}
