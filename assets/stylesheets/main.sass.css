@@ -1,0 +1,78 @@
+$soft-black: #333
+$white-bkg: #fff
+$pink: #ff99ff
+$grey-blue: #1f274c
+$dark-purp: #48214C
+$neon-blue: #66ffff
+$dark-grey: #3f3c40
+$logo-color: #B8A5BE
+$logo-color-light: #D1C5D5
+$fontfam: "dotum"
+
+#header-logo
+    background-image: url(../../assets/images/logo.jpg)
+    background-repeat: no-repeat
+    background-position: top
+    padding-top: 140px
+
+#summer-makeup-pic
+    background-image: url(../../assets/images/summermakeup.jpg)
+    background-repeat: no-repeat
+    width: 250px
+    height: 339px
+    background-size: cover
+
+.menubar
+    background: $white-bkg
+    height: 40px
+    line-height: 40px
+    letter-spacing: 2px
+    width: 100%
+
+ul
+    list-style-type: none
+    margin: 25
+    padding: 0
+    overflow: hidden
+    color: $soft-black
+    text-align: center
+    font-family: $fontfam
+
+li
+    float: left
+
+a
+    display: block
+    width: 60px
+    background-color: $white-bkg
+
+a:link
+    color: $logo-color
+
+a:visited
+    color: $logo-color
+
+a:hover
+    color: $logo-color-light
+
+body
+    background-color: $white-bkg
+
+
+h1
+    color: $soft-black
+    text-align: center
+    font-family: $fontfam
+    font-size: 45px
+
+
+ul
+    color: $soft-black
+    text-align: center
+    font-family: $fontfam
+
+
+p
+    color: $dark-grey
+    font-family: $fontfam
+    font-size: 20px

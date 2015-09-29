@@ -1,0 +1,66 @@
+#header-logo {
+  background-image: url(../../assets/images/logo.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  padding-top: 140px; }
+
+#summer-makeup-pic {
+  background-image: url(../../assets/images/summermakeup.jpg);
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 339px;
+  background-size: cover; }
+
+.menubar {
+  background: #fff;
+  height: 40px;
+  line-height: 40px;
+  letter-spacing: 2px;
+  width: 100%; }
+
+ul {
+  list-style-type: none;
+  margin: 25;
+  padding: 0;
+  overflow: hidden;
+  color: #333;
+  text-align: center;
+  font-family: "dotum"; }
+
+li {
+  float: left; }
+
+a {
+  display: block;
+  width: 60px;
+  background-color: #fff; }
+
+a:link {
+  color: #B8A5BE; }
+
+a:visited {
+  color: #B8A5BE; }
+
+a:hover {
+  color: #D1C5D5; }
+
+body {
+  background-color: #fff; }
+
+h1 {
+  color: #333;
+  text-align: center;
+  font-family: "dotum";
+  font-size: 45px; }
+
+ul {
+  color: #333;
+  text-align: center;
+  font-family: "dotum"; }
+
+p {
+  color: #3f3c40;
+  font-family: "dotum";
+  font-size: 20px; }
+
+/*# sourceMappingURL=main.css.map */
