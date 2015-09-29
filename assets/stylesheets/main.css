@@ -2,7 +2,8 @@
   background-image: url(../../assets/images/logo.jpg);
   background-repeat: no-repeat;
   background-position: top;
-  padding-top: 140px; }
+  padding-top: 140px;
+  cursor: pointer; }
 
 #summer-makeup-pic {
   background-image: url(../../assets/images/summermakeup.jpg);
